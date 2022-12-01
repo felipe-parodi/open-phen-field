@@ -1,0 +1,10 @@
+# open inspector in mac with cmd+option+i
+
+1. turn on label assist and choose trained model
+
+2. type in console:
+
+function ClickConnect(){
+console.log("Working"); 
+document.querySelector("a.next").click() 
+}setInterval(ClickConnect,2000)
