@@ -1,4 +1,6 @@
 # Open Field Tracking for Human Behavior Phenomenology in Virtual Reality
+*Project under development*
+
 This repository contains scripts and results related to computer vision analyses for each camera used in open-field tracking experiments for studying the phenomenology of human behavior in virtual reality. Specifically, the repository includes scripts and results for the top-down camera and the side-view camera.
 
 ### Top-Down Camera
