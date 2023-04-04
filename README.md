@@ -12,7 +12,7 @@ Velocity: the speed and direction of movement of individuals throughout the virt
 ### Side-View Camera
 The side-view camera is used for person pose estimation and subsequent kinematic analyses, including 3D pose lifting, eye scanning, and upper limb velocity. The scripts included in this folder allow for the automated estimation of the 3D pose of individuals in the virtual reality environment, as well as the calculation of various kinematic measures, including:
 
-3D Pose Lifting: the transformation of the 2D pose estimate to a 3D estimate of the position and orientation of the individual
+3D Pose Lifting: the transformation of 2D pose predictions to 3D space of the position and orientation of the individual
 Eye Scanning: the degree to which individuals scan the virtual environment with their eyes
 Upper Limb Velocity: the speed and direction of movement of the upper limbs of individuals throughout the virtual environment
 
