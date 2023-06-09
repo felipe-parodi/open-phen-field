@@ -23,7 +23,7 @@ Observations were made via objective measurements such as position tracking and 
 <p align="center">
   <img src="results/cv4vr.png" alt="Visualization behavior quantification in human open field">
   <br>
-  <em>Figure: Visualization behavior quantification in Human Open Field. (a) Distribution of Beck Anxiety Inventory scores (b) Deep learning-based pose estimation of natural behavior (c-d) Top-down tracking of participants as they move through the Open Field (Left: high anxiety participant; right: mild anxiety participant) (e-f) Thigmotaxis (wall nearness) and center occupancy for the visualized participants.</em>
+  <em>Figure: Visualization of behavior quantification in Human Open Field. (a) Distribution of Beck Anxiety Inventory scores (b) Deep learning-based pose estimation of natural behavior (c-d) Top-down tracking of participants as they move through the Open Field (Left: high anxiety participant; right: mild anxiety participant) (e-f) Thigmotaxis (wall nearness) and center occupancy for the visualized participants.</em>
 </p>
 
 <!-- 
