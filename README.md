@@ -1,6 +1,45 @@
-# Open Field Tracking for Human Behavior Phenomenology in Virtual Reality
+# Disrupting Reality - A new conceptual architecture for experiments in transcendental phenomenology.
 *Project under development*
 
+## Introduction
+
+This project presents a novel approach to overcoming the traditional dichotomy between transcendental phenomenology and experimental framing. The challenge lies in the ontologically dichotomous foundations of the two methodologies. Most experimental investigations are rooted in a Cartesian/Kantian dualist ontology where a detached subject cognizes an external object. On the other hand, transcendental phenomenology strives to resolve this dualism, considering both subject and object as parts of a continuous flow of experience.
+
+## Approach
+
+Our approach involves reconsidering the ontological basis of experiments, reimagining their design, methodology, setting, and the analysis and interpretation of findings. We strive to align these elements closer to phenomenology, while still remaining compatible with empirical measurements.
+
+We've found that artistic experiences serve as a viable middle ground. They're infused with key principles of transcendental phenomenology, including meaning formation, intentionality, and responsiveness.
+
+## Pilot Experiment: Human Open Field
+
+To assess our approach, we designed a pilot experimental setting, the Human Open Field, which symbolically reveals how subjects form meaning as they traverse various modes of intentional behaviour.
+
+The experiment began with subjects experiencing a novel, unstructured environment while their perceptions were altered using extended reality goggles. The primary goal was to observe the impact of these novel experiences on the subjects' meaning-making process.
+
+Observations were made via objective measurements such as position tracking and EEG, as well as phenomenological interviewing methods. This dual approach allowed us to collect phenomenologically rich data that's also compatible with scientific measurements.
+
+
+<p align="center">
+  <img src="results/cv4vr.png" alt="Visualization behavior quantification in human open field">
+  <br>
+  <em>Figure: Visualization behavior quantification in Human Open Field. (a) Distribution of Beck Anxiety Inventory scores (b) Deep learning-based pose estimation of natural behavior (c-d) Top-down tracking of participants as they move through the Open Field (Left: high anxiety participant; right: mild anxiety participant) (e-f) Thigmotaxis (wall nearness) and center occupancy for the visualized participants.</em>
+</p>
+
+<!-- 
+![Visualization behavior quantification in human open field](results/cv4vr.png)
+(a) Distribution of Beck Anxiety Inventory scores
+(b) Deep learning-based pose estimation of natural behavior
+(c-d) Top-down tracking of participants as they move through the Open Field (Left: high anxiety participant; right: mild anxiety participant)
+(e-f) Thigmotaxis (wall nearness) and center occupancy for the visualized participants. -->
+
+## Conclusion
+
+Our pilot experiment marks the beginning of a principled exploration into how we can design experimental settings that can inform transcendental thinking and gather rich data compatible with scientific measurements. We aim to better understand the conditions under which meaning is formed and how it evolves.
+
+We welcome collaboration and discussion from those interested in furthering this intersection of transcendental phenomenology and experimental methodologies.
+
+## Misc
 This repository contains scripts and results related to computer vision analyses for each camera used in open-field tracking experiments for studying the phenomenology of human behavior in virtual reality. Specifically, the repository includes scripts and results for the top-down camera and the side-view camera.
 
 ### Top-Down Camera
