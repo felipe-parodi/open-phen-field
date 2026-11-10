@@ -5,7 +5,7 @@
 # The python script is draw_fig1_cv4vr.py
 # and use parallel
 
-for file in /data2/fparodi/human/cv4vr/high_anxiety/*pkl
+for file in data/cv4vr/high_anxiety/*pkl
 do
     echo $file
     python draw_fig1_cv4vr.py --pkl=$file

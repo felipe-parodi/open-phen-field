@@ -49,7 +49,7 @@ def main():
     parser.add_argument(
         "--datadir",
         type=str,
-        default="/data2/fparodi/human/cv4vr/",
+        default="data/cv4vr/",
         help="Path to data directory",
     )
     parser.add_argument(
@@ -61,7 +61,7 @@ def main():
     parser.add_argument(
         "--outdir",
         type=str,
-        default="/data2/fparodi/human/cv4vr/figures/",
+        default="data/cv4vr/figures/",
         help="Path to output directory",
     )
     args = parser.parse_args()
